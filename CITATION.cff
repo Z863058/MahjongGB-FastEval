@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: MahjongGB-FastEval
+message: If you use this benchmark, please cite it.
+type: software
+license: MIT
+repository-code: https://github.com/Z863058/MahjongGB-FastEval
+url: https://github.com/Z863058/MahjongGB-FastEval
+authors:
+  - name: Z863058
+abstract: >-
+  C++11 Chinese Standard Mahjong environment and a four-game duplicate
+  mirror evaluator for reinforcement-learning and language-model agents.
